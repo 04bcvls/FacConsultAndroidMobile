@@ -1,4 +1,4 @@
-# andfacconsult
+# Faculty Consultation Scheduler - Android (Mobile)
 
 A Flutter project.
 
